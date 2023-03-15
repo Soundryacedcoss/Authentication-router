@@ -3,7 +3,6 @@ import "./App.css";
 import ErrorPage from "./components/error/Error";
 import { Login } from "./components/forms/Login";
 import { SignUp } from "./components/forms/SignUp";
-import { Home } from "./components/home/Home";
 import { Navbar } from "./components/home/Navbar";
 import { AuthProvider } from "./components/hook/AuthProvider";
 import { Profile } from "./components/protected/Profile";
