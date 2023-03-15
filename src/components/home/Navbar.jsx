@@ -6,7 +6,7 @@ export const Navbar = () => {
       {/* Navigation bar */}
       <nav className="navbar navbar-light bg-light">
         <div className="container-fluid">
-          <Link to={"/Home"}>
+          <Link to={"/"}>
             <button className="btn btn-primary">Home</button>
           </Link>
           <Link to={"/SignUp"}>
